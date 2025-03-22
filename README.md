@@ -1,3 +1,5 @@
+origin: https://github.com/LayoutFarm/Typography
+
 ![Typography, this image was rendered with this library, in subpixel rendering mode](https://user-images.githubusercontent.com/7447159/31848163-cc9e00fe-b655-11e7-8a40-69258e440c7a.png)
 ===========
 
